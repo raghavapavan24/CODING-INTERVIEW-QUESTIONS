@@ -1,1 +1,0 @@
-1. Write a sql query to total calculate actual working hrs duration for each employee.
