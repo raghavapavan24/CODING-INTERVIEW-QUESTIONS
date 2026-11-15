@@ -9,4 +9,5 @@
 9. A customer has multiple addresses. How would you retrieve only the most recently updated address for each customer?
 10. Identify employees hired in the past 6 months
 11. Compute cumulative salary totals grouped by employee
+12. Write code to find customers who spent more than ₹1000 from store S1 in the last month
 
