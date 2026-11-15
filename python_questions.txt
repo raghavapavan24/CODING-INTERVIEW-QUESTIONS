@@ -1,14 +1,14 @@
-1. Write a Python function to filter out customers who have made more than 5 purchases in the last 6 months.
-2. Develop a program to read a CSV file, extract unique values from a column, and save the results in a new file.
-3. Generate an Infinite Fibonacci Series Using a Generator. 
-4. Sort a List Without Using the sort Keyword
-5. Check Whether a String is a Palindrome or Not
-6. Python Program to Find the Factorial of a Number.
-7. Frequency of Words in a Sentence
-8. Find the Smallest and Largest Number in an Array
-9. Write a Python program to check if two strings are anagrams.
-10. Reverse a string without using slicing ([::-1]).
-11. Find the first non-repeating character in a string.
-14. Identify the first unique character in a string
-12. Write a function to flatten a nested list
-13. Find duplicates in a list and return them without using extra space.
+Write a Python function to filter out customers who have made more than 5 purchases in the last 6 months.
+Develop a program to read a CSV file, extract unique values from a column, and save the results in a new file.
+Generate an Infinite Fibonacci Series Using a Generator. 
+Sort a List Without Using the sort Keyword
+Check Whether a String is a Palindrome or Not
+Python Program to Find the Factorial of a Number.
+Frequency of Words in a Sentence
+Find the Smallest and Largest Number in an Array
+Write a Python program to check if two strings are anagrams.
+Reverse a string without using slicing ([::-1]).
+Find the first non-repeating character in a string.
+Identify the first unique character in a string
+Write a function to flatten a nested list
+Find duplicates in a list and return them without using extra space.
