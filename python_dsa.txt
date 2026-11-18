@@ -8,3 +8,4 @@ Reverse a string using only loops (no slicing) or sorted method
 Identify the first unique character in a string
 Convert a nested list into a single flat list
 convert a mutli nested list into a single flat list
+find the indices of two numbers whose sum equals the target.
