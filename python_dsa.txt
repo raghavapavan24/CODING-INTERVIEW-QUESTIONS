@@ -2,4 +2,4 @@ Write a Python program to check if two strings are anagrams.
 Find duplicates and uniq numbers in a list
 Find frequency of elements in a list
 Frequency of Words in a Sentence
-
+find first and second largest number in a list
