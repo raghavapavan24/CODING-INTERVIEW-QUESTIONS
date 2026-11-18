@@ -6,3 +6,5 @@ find first and second largest number in a list
 Find common elements between two lists
 Reverse a string using only loops (no slicing) or sorted method
 Identify the first unique character in a string
+Convert a nested list into a single flat list
+convert a mutli nested list into a single flat list
